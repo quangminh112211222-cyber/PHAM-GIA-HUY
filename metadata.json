@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SmartQuiz VN",
+  "description": "Ứng dụng trắc nghiệm thông minh với quyền quản trị viên (Admin) và học sinh. Hỗ trợ tạo câu hỏi bằng AI và thống kê kết quả chi tiết.",
+  "requestFramePermissions": []
+}
